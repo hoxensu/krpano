@@ -1,7 +1,7 @@
 <krpano>
 
 	<!-- use the videoplayer plugin as panoramic image -->
-	<image>
+	<image hfov="360" vfov="180">
 		<sphere url="plugin:video" />
 	</image>
 
